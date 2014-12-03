@@ -1,4 +1,5 @@
-Testing
-=======
+==========================================================
+Testing NodeJS using Express, Bower, Angular and Bootstrap
+==========================================================
 
-Testing Git
+
