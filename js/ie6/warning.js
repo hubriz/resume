@@ -124,7 +124,7 @@ function e(str) {
     _uld.style.listStyleType = "none";
     _uld.style.margin = "0 px auto";
     _uld.style.padding = "0px";
-    _uld.style.paddingLeft = "10px";
+    _uld.style.paddingLeft = "0px";
     var _li1d = document.getElementById('_li1');
     var _li2d = document.getElementById('_li2');
     var _li3d = document.getElementById('_li3');
